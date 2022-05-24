@@ -1,0 +1,9 @@
+
+GET http://localhost:3000/characters_DEL
+
+###
+GET http://localhost:3000/characters_SET
+
+
+
+GET http://localhost:3000/characters_GET
